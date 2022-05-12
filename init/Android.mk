@@ -22,7 +22,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_C_INCLUDES := \
     system/core/base/include \
     system/core/init
-LOCAL_SRC_FILES := init_realmex2.cpp
-LOCAL_MODULE := libinit_realmex2
+LOCAL_SRC_FILES := init_r5x.cpp
+LOCAL_MODULE := libinit_r5x
 
 include $(BUILD_STATIC_LIBRARY)
